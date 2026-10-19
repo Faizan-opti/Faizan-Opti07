@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=60000&color=FF0000&background=00000000&center=true&vCenter=true&width=950&height=100&lines=%F0%9F%94%A5+IT's+Me+%2C+./𝔉AI-07+%2C+--+ /.𝔉𝔞𝔦𝔃𝔞𝔑+--+%F0%9F%94%A5" alt="Old English Reveal Red Name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=60000&color=FF0000&background=00000000&center=true&vCenter=true&width=950&height=100&lines=%F0%9F%94%A5+IT's+Me+%2C+𝔉AI-07+%2C+--+𝔉𝔞𝔦𝔃𝔞𝔑+--+%F0%9F%94%A5" alt="Old English Reveal Red Name" />
 </p>
 
 <p align="center">
